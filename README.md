@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CodSoft Python Projects</title>
-</head>
-<body>
-
 <h1>CodSoft Python Projects</h1>
 
 <p>This repository contains multiple Python-based projects created as part of the <strong>CodSoft Internship</strong>. Each project focuses on building core programming skills, problem-solving, and application development using Python.</p>
@@ -17,8 +8,8 @@
 
 <h3>Internship Duration:</h3>
 <ul>
-    <li><strong>Start Date:</strong> September 5, 2024</li>
-    <li><strong>End Date:</strong> October 5, 2024</li>
+    <li><strong>Start Date:</strong> October 22, 2024</li>
+    <li><strong>End Date:</strong>  25, 2024</li>
 </ul>
 
 <h2>Project Overview</h2>
