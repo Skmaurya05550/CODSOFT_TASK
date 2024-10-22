@@ -9,7 +9,7 @@
 <h3>Internship Duration:</h3>
 <ul>
     <li><strong>Start Date:</strong> October 22, 2024</li>
-    <li><strong>End Date:</strong>  25, 2024</li>
+    <li><strong>End Date:</strong>  November 25, 2024</li>
 </ul>
 
 <h2>Project Overview</h2>
